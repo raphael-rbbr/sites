@@ -33,7 +33,11 @@ body {
 }
 
 
-.btn{
+#btn{
   font-size: auto;
   color: aliceblue;
+}
+
+.hide{
+  display: none;
 }
